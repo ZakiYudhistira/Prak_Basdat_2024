@@ -1,1 +1,1 @@
-This is a repository containing ID2240 practice's source code
+This is a repository containing IF2240 practice's source code
